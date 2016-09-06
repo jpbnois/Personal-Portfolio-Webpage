@@ -1,0 +1,190 @@
+.nav-pills {
+  font-family: Merienda One;
+  font-size: 1.5em;
+  background-color: LightGray;
+  outline-style: groove;
+  }
+  
+  .sitename {
+  margin-top: 10px;
+    margin-left: 10px;
+    color: black;
+    font-type: Merienda One;
+}
+
+body {
+  background-color: LightGray;
+  
+}
+
+a {
+  color: black;
+  font-style: strong;
+  
+}
+
+.homePage {
+  background: url("https://hd.unsplash.com/3/doctype-hi-res.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 800px;
+ 
+}
+
+.aboutMe {
+  background: url("");
+  background-size: cover;
+  margin-bottom: -65px;
+  
+}
+
+.myPortfolio {
+  background: url("https://hd.unsplash.com/photo-1429051781835-9f2c0a9df6e4");
+  background-attachment: fixed;
+  background-size: cover;
+  height: 800px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: -20px;
+  margin-right: -30px;
+}
+
+.contactMe {
+  background: url("");
+  background-size: cover;
+  
+}
+
+h1 {
+  padding: 0px;
+    margin-top: 0px;
+  font-family: "Open Sans";
+  font-weight: 800;
+	font-size: 65px;
+	line-height: 125px;
+  text-align: center;
+  color:  white;
+  text-shadow: 2px 2px 2px black;
+  padding-top: 175px;
+  
+}
+  
+  h3 {
+   font-family: "Open Sans";
+	font-size: 40px;
+	font-variant: normal;
+	font-weight: 800;
+  text-shadow: 2px 2px 2px black;
+	line-height: 0px;
+  text-align: center;
+    margin-top: 0px;
+    color: DarkGray;
+  }
+.btn-default {
+  font-size: 1.3em;
+  padding: 5px;
+  margin: 5px;
+  font-family: Merienda One;
+  color: black;
+ 
+}
+
+.social {
+  display: flex;
+   justify-content: center;
+  
+}
+  
+.effect1 {
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+       -moz-box-shadow: 0 10px 6px -6px #777;
+            box-shadow: 0 10px 6px -6px #777;
+  }
+
+.paragraph {
+  
+ font-family: Quicksand;
+  font-size: 2.1em;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  margin-left: 40px;
+}
+  
+   .aboutme2 {
+   padding-top: 40px; 
+     color: black;
+     font-family: Merienda One;
+      text-shadow: 2px 2px 2px DarkGray;
+     
+}
+     
+     .img-circle {
+     
+       
+     }
+  
+
+.btn-social-icon {
+  font-size: 6em;
+  display: flex;
+  justify-content: center;
+  display: inline-block;
+  padding-left: 160px;
+  float: left;
+  color: black;
+  margin: auto;
+ }
+
+.contactsocialicons {
+ margin-top: 110px; 
+  font-size: 100px;
+  font-family: Lobster;
+  color: white;
+}
+
+.footer {
+  padding-top: 2%;
+  padding-bottom: 1%;
+  background-color: white;
+  }
+
+
+.below1 {
+  margin-top: 35px;
+}
+
+.below2 {
+  margin-top: 70px;
+}
+
+.opener {
+  font-size: 6em;
+  color: DarkGray;
+  text-shadow: 2px 2px 2px black;
+}
+
+.picture {
+  padding-top: 100px;
+  padding-left: 150px;
+}
+
+.porttitle {
+  padding-top: 40px;
+  margin-top: 90px; 
+  font-size: 4.5em;
+     color: white;
+     font-family: Merienda One;
+      text-shadow: 2px 2px 2px black;
+}
+
+.column1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  padding-bottom: 50px;
+  
+}
+
+.column2 {
+  margin-top: -35px;
+}
+  
